@@ -1,0 +1,19 @@
+body{ 
+	background: #444;
+	font-family: "Impact", Arial;
+    font-size: 2em;
+    font-weight: 700 ;
+    text-transform: capitalize;
+    letter-spacing: -3px;
+    text-shadow: 0 2px 0 red;
+}
+
+.big {
+	font-size: 1.3em;
+}
+
+	
+
+
+
+
