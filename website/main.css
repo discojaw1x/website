@@ -8,9 +8,20 @@ a {
 	color: #cb2c2c;
 	text-decoration:none;
 } 
-div#main {
-	color : green;
+
+
+a[href$=".jpg"]::after {
+	content: '(jpg)';
+	font-size: 10px;
+	color: #888;
 }
-.list li {
-	border-bottom: 1px dashed #666;
+a[href$=".png"]::after {
+	content: '(jpg)';
+	font-size: 10px;
+	color: #888;
+}
+a[href$=".mp3"]::after {
+	content: '(jpg)';
+	font-size: 10px;
+	color: #888;
 }
