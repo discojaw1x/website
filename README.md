@@ -1,1 +1,1 @@
-# javascript jokes
+# Javascript technologies.
