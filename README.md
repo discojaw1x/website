@@ -1,1 +1,1 @@
-мой маломайские сайтики
+My HTML/CSS based things
